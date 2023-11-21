@@ -1,0 +1,23 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.link {
+    background: aqua;
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 15px;
+    font-size: medium;
+}
+
+.link:hover{
+    font-size: large;
+}
+
+#heading {
+    font-size: 50px;
+    font-family: 'Beau Rivage', cursive;
+    background: plum;
+    box-shadow: 10px 10px 10px orangered;
+}
